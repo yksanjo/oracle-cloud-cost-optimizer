@@ -4,6 +4,12 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+## 📸 Dashboard Preview
+
+![Oracle Cloud Cost Optimizer Dashboard](assets/dashboard-screenshot.svg)
+
+*OCI cost analysis dashboard showing spending breakdown, optimization recommendations, and multi-cloud comparison.*
+
 ## 🎯 Overview
 
 Oracle Cloud Cost Optimizer helps:
